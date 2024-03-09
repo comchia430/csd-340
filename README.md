@@ -1,3 +1,3 @@
 # csd-340
-<head>CSD 340 Web Development with HTML and CSS</head>
+<h1>CSD 340 Web Development with HTML and CSS</h1>
 Repository for my CSD 340 class.
